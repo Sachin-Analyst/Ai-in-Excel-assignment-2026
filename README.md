@@ -16,10 +16,10 @@ Welcome to my AI in Excel project. This repository documents a hands-on Codebasi
 
 ## Introduction
 ---
-*Project Title:* AI in Excel Assignment 2026
-*Created By:* [Sachin-Analyst](https://github.com/Sachin-Analyst)
-*Tools Used:* Excel, ChatGPT (Excel AI add-in)
-*Focus Areas:* Data Cleaning, Business Rule Formulas, ROI Analysis, Language-wise Profitability Summary
+*Project Title:* AI in Excel Assignment 2026 
+*Created By:* [Sachin-Analyst](https://github.com/Sachin-Analyst) 
+*Tools Used:* Excel, ChatGPT (Excel AI add-in) 
+*Focus Areas:* Data Cleaning, Business Rule Formulas, ROI Analysis, Language-wise Profitability Summary 
 
 ---
 
