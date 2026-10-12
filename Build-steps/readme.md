@@ -58,6 +58,8 @@ Make sure the borders of columns both right and left sides has width to ensure s
 
 **Step 1**
 ```
+Phase 2 - Clean MovieFinancials. 
+
 Check there is inconsistent values in the text column and use the trim function. Numeric values/columns remains unchanged
 ```
 
@@ -72,6 +74,8 @@ Ensure there is duplicate entries based on the movie_id and report the count of 
 
 **Step 1**
 ```
+Phase 3 - Watch Verdict. 
+
 Create a new column name called watch_verdict based on the conditions below
 a) When the imdb rating is equals to 8 and above , add the value to be Must Watch
 b) When the imdb rating is equals to 6 above and less than 8 , and the value to be Worth of watch
@@ -92,6 +96,8 @@ Report the total count of movies under the watch verdict conditions
 
 **Step 1**
 ```
+Phase 4 - ROI %. 
+
 Create a new column right side of watch_verdict named roi_pct based on the formula
 roi_pct = (revenue usd - budget usd) / budget usd and format it as percentage
 If there is null/empty cells in numeric columns remains unchanged make sure it does not show any error message in those cells
@@ -118,6 +124,8 @@ Highlight the rows light amber and ensure the values are readable, based on the 
 
 **Step 1**
 ```
+Phase 5 - Table design. 
+
 Make the table design headers looks dark and font color white and the values should not hold banded rows design.
 ```
 
@@ -137,6 +145,7 @@ Skip the rule for highlighted rows based on the roi_pct conditions
 
 **Step 1**
 ```
+Phase 6 - Language summary. 
 Create a new sheet named Language summary and build a summary based on language names and for each language show the total count of movies, average imdb ratings and total profits in usd millions (Revenue usd - Budget usd). Include the languages even there is no movies. make sure it is the order of language id
 ```
 
