@@ -10,6 +10,8 @@ A Codebasics Excel + AI hands-on assignment, built on the same movie financials 
 
 **Step 1**
 ```
+Phase 1 - Clean the movies sheet
+
 Remove the empty column - G
 ```
 
