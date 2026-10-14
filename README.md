@@ -34,6 +34,7 @@ This repository documents a hands-on assignment from the Codebasics Excel + AI c
 - *build-steps* - Phase-by-phase prompts, each step broken out as its own copyable block
 - *raw-data* - Meant for the dataset before cleanup; not included here since no untouched copy was preserved before the AI work began
 - *result* - The finished workbook with the Watch Verdict, ROI %, and Language Summary sheets
+- *ppt-slides* - The 7 slide explainer deck covering the outline, why it matters, the comparison, and the live build walkthrough
 - *prompts* - The exact prompts used, phase by phase, written once and run once
 
 
